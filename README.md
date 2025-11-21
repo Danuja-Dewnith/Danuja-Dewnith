@@ -55,8 +55,11 @@
 ## 📊 My GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanujaDewnith&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanujaDewnith&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danuja-Dewnith&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danuja-Dewnith&layout=compact&theme=dracula" height="150" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Danuja-Dewnith&theme=dracula&margin-w=10&margin-h=10" />
+<img src="https://streak-stats.demolab.com/?user=Danuja-Dewnith&theme=dracula" />
 </div>
 
 ---
