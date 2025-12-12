@@ -14,10 +14,14 @@
 <td width="50%" align="left">
 
 - 🔭 I’m currently working on **IoT Projects**
+
 - 🌱 I’m currently learning **Machine Learning**
+
 - 💬 Ask me about **Java**
-- 📫 Reach me at **danujadewnith@gamil.com**
-- ⚡ Fun fact: **Call me Dana 😎**
+
+- 📫 Reach me at **danujadewnith@gmail.com**
+
+- ⚡ Fun fact: **Call me Dana 😄**
 
 </td>
 
@@ -36,67 +40,74 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danuja-dewnith&theme=dark&show_icons=true&count_private=true" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danuja-dewnith&theme=dark&hide_border=false" />
+  <!-- Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danuja-Dewnith&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+
+  <!-- Streak -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danuja-Dewnith&theme=dark&hide_border=false" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuja-dewnith&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
+  <!-- Top Languages -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Danuja-Dewnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
 </tr>
 </table>
-</p>
+
+
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/danuja-dewnith-munasingha-53439a371" target="blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" />
+<a href="https://linkedin.com/in/danuja-dewnith-munasingha-53439a371" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
 </a>
+
 <a href="https://www.facebook.com/share/1bqcanpxfo/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
 </a>
+
 <a href="https://www.instagram.com/danuja_dewnith/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/></a>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50"/>
 </p>
 
 ---
 
-<h3 align="center">Support:</h3>
+<h3 align="center">Support Me</h3>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/Danuja-Dewnith">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
 </a>
 </p>
