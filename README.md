@@ -33,30 +33,18 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">My Statistics</h3>
 
-<p align="center">
 <table align="center">
-<tr border="none">
+<tr>
 <td width="50%" align="center">
-
-  <!-- Working Stats -->
-  <img align="center" src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=danuja-dewnith&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Danuja-Dewnith&theme=dark&show_icons=true&count_private=true" />
   <br><br>
-
-  <!-- Streak (already working) -->
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-        alt="Mark streak" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=danuja-dewnith&theme=dark&hide_border=false" /> 
-
+  <img title="🔥 GitHub Streak" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=danuja-dewnith&theme=dark&hide_border=false" />
 </td>
 
 <td width="50%" align="center">
-
-  <!-- Top Languages -->
-  <img align="center" 
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danuja-dewnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danuja-dewnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
