@@ -95,7 +95,7 @@
 <h3 align="center">Support Me</h3>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/Danuja-Dewnith">
+<a href="https://buymeacoffee.com/danuja_dewnith">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
 </a>
 </p>
