@@ -71,7 +71,7 @@ I enjoy designing, developing, and improving software applications that solve re
 
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuja-dewnith&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&langs_count=6" width="100%" alt="Most-used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danuja-Dewnith&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&langs_count=6" width="100%" alt="Most-used programming languages"/>
 
 </td>
 </tr>
